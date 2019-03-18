@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CorpTrainer Jobs</string>
+    <string-array name="jobs">
+        <item>Java</item>
+        <item>Sql</item>
+        <item>Python</item>
+        <item>Ruby</item>
+    </string-array>
+    <string name="title_activity_home">Home</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="keyword">Key word : Java, Sql, Python, Data Science, Machine Learning, AI ,Block Chain Trainer,Sixsigma Training,PMP trainer , Html , AnSys</string>
+    <string name="heading">Connecting \n Corporates &amp; \n Professional \n Trainers</string>
+    <string name="title_activity_start">Start</string>
+</resources>

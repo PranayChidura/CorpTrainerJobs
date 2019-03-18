@@ -1,0 +1,231 @@
+{
+  "project_info": {
+    "project_number": "679376895393",
+    "firebase_url": "https://corptrainer-97201.firebaseio.com",
+    "project_id": "corptrainer-97201",
+    "storage_bucket": "corptrainer-97201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679376895393:android:f7eae1e98201bb0d",
+        "android_client_info": {
+          "package_name": "com.example.nani.corptrainerjobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679376895393-a56r9bhirfho5b59t73mdls9l1e09et4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nani.corptrainerjobs",
+            "certificate_hash": "49b88be64d57ebd70335e826cc06a875a8fd4f4a"
+          }
+        },
+        {
+          "client_id": "679376895393-1spkehrnelks7h6l3qko5op9p6s4lamd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ4DUVGJUGf5gOhtnqPoQ0SuCVnQeZXDs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679376895393-1spkehrnelks7h6l3qko5op9p6s4lamd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679376895393:android:0bbcc0c4ffd3e316",
+        "android_client_info": {
+          "package_name": "com.example.nani.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679376895393-0glsbknjklbhnk18gfdo6dr4j2h0ifs8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nani.myapplication",
+            "certificate_hash": "49b88be64d57ebd70335e826cc06a875a8fd4f4a"
+          }
+        },
+        {
+          "client_id": "679376895393-1spkehrnelks7h6l3qko5op9p6s4lamd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ4DUVGJUGf5gOhtnqPoQ0SuCVnQeZXDs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679376895393-1spkehrnelks7h6l3qko5op9p6s4lamd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679376895393:android:dbf24e0cd66b0a58",
+        "android_client_info": {
+          "package_name": "pranay.nani.corptrainerjobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679376895393-1e2jhecvv3qf8qhsfrqple8s85l8cpmo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pranay.nani.corptrainerjobs",
+            "certificate_hash": "49b88be64d57ebd70335e826cc06a875a8fd4f4a"
+          }
+        },
+        {
+          "client_id": "679376895393-1spkehrnelks7h6l3qko5op9p6s4lamd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ4DUVGJUGf5gOhtnqPoQ0SuCVnQeZXDs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679376895393-1spkehrnelks7h6l3qko5op9p6s4lamd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679376895393:android:e1214414cc7b4f78",
+        "android_client_info": {
+          "package_name": "pranay.nani.ctj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679376895393-99fm4camvlhrjt63peptuhue4eqbvl3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pranay.nani.ctj",
+            "certificate_hash": "49b88be64d57ebd70335e826cc06a875a8fd4f4a"
+          }
+        },
+        {
+          "client_id": "679376895393-1spkehrnelks7h6l3qko5op9p6s4lamd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ4DUVGJUGf5gOhtnqPoQ0SuCVnQeZXDs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679376895393-1spkehrnelks7h6l3qko5op9p6s4lamd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679376895393:android:765532cb71cc1bc8",
+        "android_client_info": {
+          "package_name": "pranay.nani.myapplication121"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679376895393-fb1oh4cdg0r15hd5frp10rfkilekfo96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pranay.nani.myapplication121",
+            "certificate_hash": "49b88be64d57ebd70335e826cc06a875a8fd4f4a"
+          }
+        },
+        {
+          "client_id": "679376895393-1spkehrnelks7h6l3qko5op9p6s4lamd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ4DUVGJUGf5gOhtnqPoQ0SuCVnQeZXDs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679376895393-1spkehrnelks7h6l3qko5op9p6s4lamd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

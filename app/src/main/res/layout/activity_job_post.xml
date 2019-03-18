@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context="com.example.nani.corptrainerjobs.JobPost">
+
+    <com.rengwuxian.materialedittext.MaterialEditText
+        app:met_floatingLabel="highlight"
+        android:id="@+id/title_jobpost"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Enter Title"
+        android:inputType="textPersonName"
+        android:textColor="#ffffff"
+        android:textColorHint="@android:color/darker_gray" />
+
+    <com.rengwuxian.materialedittext.MaterialEditText
+        android:id="@+id/des_jobpost"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:hint="Enter Description"
+        android:inputType="textPersonName"
+        android:textColor="#ffffff"
+        android:textColorHint="@android:color/darker_gray"
+        app:met_floatingLabel="highlight" />
+
+    <Spinner
+        android:id="@+id/spinner_jobpost"
+        android:layout_width="match_parent"
+
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/cardview_light_background" />
+
+    <Button
+        android:id="@+id/btn_jobpost"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/blue"
+        android:text="Post" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/coming" />
+</LinearLayout>
